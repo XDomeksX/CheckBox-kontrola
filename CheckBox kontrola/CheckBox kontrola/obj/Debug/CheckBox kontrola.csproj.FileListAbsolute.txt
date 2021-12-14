@@ -1,0 +1,11 @@
+D:\Visual Studio\C#\CheckBox kontrola\CheckBox kontrola\bin\Debug\CheckBox kontrola.exe.config
+D:\Visual Studio\C#\CheckBox kontrola\CheckBox kontrola\bin\Debug\CheckBox kontrola.exe
+D:\Visual Studio\C#\CheckBox kontrola\CheckBox kontrola\bin\Debug\CheckBox kontrola.pdb
+D:\Visual Studio\C#\CheckBox kontrola\CheckBox kontrola\obj\Debug\CheckBox kontrola.csproj.AssemblyReference.cache
+D:\Visual Studio\C#\CheckBox kontrola\CheckBox kontrola\obj\Debug\CheckBox kontrola.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\C#\CheckBox kontrola\CheckBox kontrola\obj\Debug\CheckBox_kontrola.Form1.resources
+D:\Visual Studio\C#\CheckBox kontrola\CheckBox kontrola\obj\Debug\CheckBox_kontrola.Properties.Resources.resources
+D:\Visual Studio\C#\CheckBox kontrola\CheckBox kontrola\obj\Debug\CheckBox kontrola.csproj.GenerateResource.cache
+D:\Visual Studio\C#\CheckBox kontrola\CheckBox kontrola\obj\Debug\CheckBox kontrola.csproj.CoreCompileInputs.cache
+D:\Visual Studio\C#\CheckBox kontrola\CheckBox kontrola\obj\Debug\CheckBox kontrola.exe
+D:\Visual Studio\C#\CheckBox kontrola\CheckBox kontrola\obj\Debug\CheckBox kontrola.pdb
